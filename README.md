@@ -1,6 +1,6 @@
 # IFrames
 
-Repository to host some iframes that are used internally.
+Repository to host sources that are used internally within iframes.
 
 ## Usage
 
